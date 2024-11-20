@@ -1,7 +1,7 @@
 # IOT_LOG_PARSER1
 smart city assessment
 # Project Overview
-• Brief description of the project,       including its purpose and               functionality.
+• Brief description of the project,  including its purpose and               functionality.
 • Mention the problem statement and how   your solution addresses it.
 # Features
 • Data extraction and structuring.
