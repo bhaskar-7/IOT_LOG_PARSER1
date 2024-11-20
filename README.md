@@ -38,4 +38,4 @@ smart city assessment
 1. Invalid log entries are skipped but logged for reference.
 2. Critical errors are reported with file and line numbers.
 ## Image 
-![visualization](visualization.png)
+![visualization](visualization1.png)
